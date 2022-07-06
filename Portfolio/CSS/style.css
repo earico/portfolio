@@ -1,0 +1,11 @@
+html{
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background: linear-gradient(rgb(200, 100, 50), rgb(123, 41, 5));
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+}
